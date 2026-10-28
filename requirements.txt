@@ -1,0 +1,10 @@
+pandas==2.0.3
+pyspark==3.4.1
+delta-spark==2.4.0
+yfinance==0.2.28
+alpaca-trade-api==3.0.2
+pytz==2023.3
+pandas_market_calendars==4.1.4
+mlflow==2.6.0
+transformers==4.33.0
+pytest==7.4.0
